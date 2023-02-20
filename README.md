@@ -1,6 +1,6 @@
 # shoes_app_ui 👟👞
 
-An application with a simple interface that displays a group of shoes of various colors and sizes.
+A simple UI that displays a group of shoes of various colors and sizes.
 
 <div align="center">
 
