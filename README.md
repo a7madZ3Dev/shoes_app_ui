@@ -19,12 +19,10 @@ A simple UI that displays a group of shoes of various colors and sizes.
 ## 🎥 Promo Video
 <img alt="GIF" src="preview/demo_1.gif" width= "300" /> <img alt="GIF" src="preview/demo_2.gif" width= "300" />
 
+## The design has been done with the help
+https://www.youtube.com/watch?v=INruEE8M7zk
+
 <br>
-
-## 🔑 License
-
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
-
 ## 🧑 Author
 
 #### Ahmad Alzoabi
